@@ -1,6 +1,6 @@
 # Gauge - metadata dir
 .gauge
-
+.idea
 # Gauge - log files dir
 logs
 
