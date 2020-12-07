@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.nothinghere</groupId>
-    <artifactId>gauge-java-mven</artifactId>
+    <artifactId>gauge-java-maven</artifactId>
     <version>0.0.1</version>
 
     <properties>

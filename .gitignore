@@ -3,6 +3,7 @@
 .idea
 # Gauge - log files dir
 logs
+*.iml
 
 # Gauge - java class output directory
 gauge_bin
